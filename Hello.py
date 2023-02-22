@@ -18,7 +18,6 @@ ws = wb.active
 #print (f'{name} : {color}')
 
 # Grab whole column
-'''
 
 #For loop
 
@@ -32,7 +31,7 @@ for cell in range:
 	for x in cell:
 		names += x.value
 print (names)
-'''
+
 column_a = ws['A']
 print (column_a)
 
